@@ -1,6 +1,6 @@
 # Darrieus-Ugrinsky-VAWT
 Self-starting hybrid Darrieus-Ugrinsky vertical axis wind turbine
-VAWT morphs from a Darrieus type to a Ugrinsky type
+(VAWT) morphs from a Darrieus type to a Ugrinsky type
 
 ![Darrieus-Ugrinsky](./darrieus_ugrinsky.png)
 
